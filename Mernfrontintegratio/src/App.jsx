@@ -280,7 +280,7 @@ function App() {
                 <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold text-xl">S</span>
                 </div>
-                <span className="ml-3 text-2xl font-bold">ShopEasy</span>
+                <span className="ml-3 text-2xl font-bold">ShopEasy Buy</span>
               </div>
               <p className="text-gray-400 mb-6 max-w-md">
                 Your one-stop destination for all shopping needs. Quality products, fast delivery, and exceptional customer service.
