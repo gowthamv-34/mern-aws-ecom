@@ -392,7 +392,7 @@ function App() {
               © {new Date().getFullYear()} ShopEasy. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm mt-2">
-              Designed with ❤️ for the MERN Stack E-commerce Project
+              Designed with ❤️ for the MERN Stack E-commerce Project for AIDS
             </p>
           </div>
         </div>
